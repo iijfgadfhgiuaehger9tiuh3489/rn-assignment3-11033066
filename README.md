@@ -33,4 +33,4 @@ contentContainer: Aligns items to the center and provides padding at the top and
 
 ## Screenshot
 
-![app screenshot] (assets/images/screenshot.png)
+![app screenshot] (https://github.com/iijfgadfhgiuaehger9tiuh3489/rn-assignment3-11033066/blob/main/my-new-project/assets/images/screenshot.png)
